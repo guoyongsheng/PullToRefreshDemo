@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\android_studio_workspace_demo\pull_to_refresh\PullToRefreshDemo\refresh_pull_to\src\main\assets"/><source path="G:\android_studio_workspace_demo\pull_to_refresh\PullToRefreshDemo\refresh_pull_to\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="G:\android_studio_workspace_demo\pull_to_refresh\PullToRefreshDemo\refresh_pull_to\src\release\assets"/></dataSet></merger>
